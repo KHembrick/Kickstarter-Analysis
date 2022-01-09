@@ -7,7 +7,7 @@ Analyzing a kickstarter dataset on specific crowdfunding campaigns to uncover tr
 The purpose of analyzing this dataset is to provide visualization to the project trends. By using charts and graphs to pinpoint and highlight the Goals based on Outcome as well as Outcomes based on Launch date.
 
 ## Analysis and Challenges
-By filtering the dataset and color-coding the campaigns by outcomes of successful, failed and canceled projects. It easy to identify each category and the outcomes for the kickstarter campaign. Using the [Countif Excel Function](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34) making it convenient to determine how each project did.
+By filtering the dataset and color-coding the campaigns by outcomes of successful, failed and canceled projects. It's easy to identify each category and the outcomes for the kickstarter campaign. Using the [Countif Excel Function](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34) making it convenient to determine how each project did.
  To further detail the kickstarter campaigns success, failed, and canceled categories the [Sum Excel Function](https://support.microsoft.com/en-us/office/sum-function-043e1c7d-7726-4e80-8f32-07b23e057f89) in excel was used to calculate percentages to display just how well each category did focusing on the Play/Theater projects.
 
 The kickstarter dataset was also filtered by theater outcomes based on Launch date. *Example: 1476094907 was converted into Thursday, August 11, 2016* using the [Unix timestamp converter](https://www.epochconverter.com/).
